@@ -1,2 +1,2 @@
 # Artmen1989.github.io
-WEB
+WEB-site - Созданный веб-сайт мной лично!
